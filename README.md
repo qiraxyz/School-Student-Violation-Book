@@ -15,8 +15,12 @@ buku-siswa is a Student Communication Point Book. this project is created by one
 
 - Student Point Activity.
 - Login menu.
+- SideBar Menu.
 - Adding point listing and data violation.
-- Trigger point (testing)
+- Trigger point (testing).
+- Blade Engine.
+- Full Data Dummy.
+- Full Migration.
 
 Qira Project is accessible and powerful.
 
