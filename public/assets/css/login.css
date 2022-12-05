@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #181818;
+}
+
+/* login */
+.zan-login {
+    background-color: white;
+    width: 650px;
+    height: 400px;    
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 20px;
+}
+
+.judul-login{
+    position: absolute;
+    margin-left: 23%;
+    margin-top: -3%;
+    font-size: 25px;
+}
+
+.dokicon{
+    height: 0;
+}
+
+.dokicon img{
+    height: 240px;
+    margin-left: 3%;
+}
+
+.isi-left{
+    display: flex;
+}
+
+.isi-left img{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+.isi-left p{
+    font-weight: bold;
+    margin-top: 6.5%;
+    margin-left: 2%;
+}
+
+.isi-right input{
+    height: 30px;
+    width: 250px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 30px;
+}
+
+.isi-right{
+    position: relative;
+    line-height: 20px;
+    margin-left: 48%;
+}
+
+.isi-right a button{
+    margin-top: 13%;
+    margin-left: 23%;
+    background-color: #0FA958;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+    height: 35px;
+    font-weight: bold;
+}
+
+.isi-right a button:hover{
+    background-color: #1C6758;
+}
+
+.dont-login{
+    margin-top: 65px;
+    color: #5A5A5A;
+}
+
+.dont-login a{
+    color: #0FA958;
+}
